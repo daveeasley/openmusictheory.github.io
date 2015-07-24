@@ -1,11 +1,11 @@
-### H3 The Rondò
+### The Rondò
 
 Operatic forms are inherently different from instrumental forms.
 
-###### H6 Slow
+###### Slow
 
 This section is slow.
 
-###### H6 Fast
+###### Fast
 
 This section is fast.
